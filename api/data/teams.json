@@ -1,0 +1,129 @@
+[
+  {
+"_id": "6249a5e3c9b3b2d785bbb7eb",
+"country": "USA",
+"year": 1910,
+"color": "Red",
+"players": [
+  {
+"name": "Brad",
+"age": 32,
+"_id": "6249a5e3c9b3b2d785bbb7ec"
+},
+  {
+"name": "Alexa",
+"age": 32,
+"_id": "6249a5e3c9b3b2d785bbb7ed"
+}
+],
+"__v": 0
+},
+  {
+"_id": "6249a618c9b3b2d785bbb7ef",
+"country": "Japan",
+"year": 1960,
+"color": "White",
+"players": [],
+"__v": 0
+},
+  {
+"_id": "6249a628c9b3b2d785bbb7f1",
+"country": "Brazil",
+"year": 1988,
+"color": "Yellow",
+"players": [
+  {
+"name": "Ricardo",
+"age": 32,
+"_id": "6249a628c9b3b2d785bbb7f2"
+}
+],
+"__v": 0
+}
+]
+6249a628c9b3b2d785bbb7f1 team
+6249d408a939c91e9bdc74e9 player
+///////////////
+
+
+
+
+[
+    {
+        "country": "USA",
+        "year": 1910,
+        "color": "Red",
+        "players": [{"name": "Brad", "age": 32}, {"name": "Alexa", "age": 32}]
+    },
+    {
+        "country": "Japan",
+        "year": 1960,
+        "color": "White"
+    },
+    {
+        "country": "Brazil",
+        "year": 1988,
+        "color": "Yellow",
+        "players": [{"name": "Ricardo", "age": 32}]
+    }
+
+
+]
+////////////////////
+[
+    {
+        country: "USA",
+        year: 1910,
+        color: "Red",
+        players: [{name: "Brad", age: 32}, {name: "Alexa", age: 32}]
+    },
+    {
+        country: "Japan",
+        year: 1960,
+        color: "White"
+    },
+    {
+        country: "Brazil",
+        year: 1988,
+        color: "Yellow",
+        players: [{name: "Ricardo", age: 32}]
+    }
+
+
+]
+///
+{
+    "_id": "6248bf7ee870c03807a3ee2d",
+    "country": "USA",
+    "year": 1910,
+    "color": "Red",
+    "players": [
+      {
+    "name": "Brad",
+    "age": 32
+    },
+      {
+    "name": "Alexa",
+    "age": 32
+    }
+    ],
+    },
+      {
+    "_id": "6248bf9fe870c03807a3ee2e",
+    "country": "Japan",
+    "year": 1960,
+    "color": "White",
+    "players": [],
+    },
+      {
+    "_id": "6248bfb5e870c03807a3ee2f",
+    "country": "Brazil",
+    "year": 1988,
+    "color": "Yellow",
+    "players": [
+      {
+    "name": "Ricardo",
+    "age": 32
+    }
+    ],
+    }
